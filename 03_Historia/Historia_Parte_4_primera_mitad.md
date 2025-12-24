@@ -1,7 +1,7 @@
 Historia de la parte 4
 
 Arco invasión guerrera.
-Capítulo 1
+# Capítulo 1
 Pasaron 3 meses desde el Torneo divino de la parte 3, Alex y Basty se encontraban en el planeta de Godgirl entrenando, Alex se encontraba meditando mientras Basty y Godgirl conversaban.
 Basty: ¿Cuándo tiempo lleva meditando? -decía con los brazos cruzados
 Godgirl: Hace un par de días, se tomó muy enserio el meditar para despejar la mente.
@@ -11,7 +11,7 @@ Basty: ¿Dices que Alex tiene rastros de esa energía aun?, pero el dios supremo
 Godgirl: En teoría Si, solo necesita pulir sus capacidades para liberar un poco de la energía celestial que pudo haber quedado en él, de otra forma Alex no podrá acceder nunca a esa forma celestial.
 Luego de unos momentos Alex deja de meditar y se levanta poco a poco mientras se estira y se acerca donde Basty y Godgirl.
 Godgirl: Por fin te levantas. Vamos a comenzar con el entrenamiento físico.
-Capítulo 2
+# Capítulo 2
 Pasamos a otro plano, en algún lugar del basto espacio del universo, se enfoca una gran nave espacial rodeada de miles de naves pequeñas, dentro de esta se encuentran especies de científicos u operadores de la nave, mientras estos operadores trabajaban dirigiendo la nave se acerca un ente por detrás donde solo se aprecia su pierna y una especie de faja de piel de un animal que lleva en su cintura y este se acerca para hablar con los operadores:
 ???: ¿Qué tal van?
 Operador: Hemos encontrado 230 planetas compatibles… el más cercano es llamado “Tierra” por los habitantes de ahí…
@@ -26,7 +26,7 @@ Robert se transforma es su super forma y sale disparado. Llega donde Ronnal mien
 Robert: ¡Hey Ronnal!, ¿quieres entrenar?
 Ronnal: Hola, ¡Claro!
 Ronnal y Robert pasan a sus super formas fase 2 y comienzan a intercambiar golpes en el cielo.
-Capítulo 3
+# Capítulo 3
 Pasamos a otro plano donde Alex y Basty en el planeta de godgirl se encontraban entrenando intercambiando golpes entre ellos en sus formas ultra, mientras peleaban dejaban destrozos por todo el lugar mientras a lo lejos observaban godgirl y Mike
 Mike: Se han vuelto más fuertes.
 Godgirl: Sip, aunque aún les falta mucho si quieren llegar a mi nivel. – esta se gira a ver a Mike – Tu estas casi a mi nivel ¿Qué tal si peleas con ellos?
@@ -35,7 +35,7 @@ Godgirl: ¡Mike va a luchar con ustedes!
 Mike se posiciona relajándose, mientras Alex y Basty intercambian miradas nerviosas por pelear con Mike, luego estos bajan y se ponen al lado de Mike
 Mike: No me contendré.
 Mike lanza una fuerte patada a Basty mandándolo a volar lejos y rápidamente conecta un fuerte golpe a Alex separando a ambos lejos, luego Mike desprende una irradiante aura y poder similar a la de un dios, Alex se lanza pero Mike cubre el ataque luego Basty se lanza a toda velocidad para chocar con Mike pero este se teletransporta en el último segundo haciendo que Alex y Basty se choquen sus cabezas, luego miran arriba y Mike carga una bola de energía oscura que irradia poder por todo el planeta, ambos se preparan para pelear en serio.
-Capítulo 4
+# Capítulo 4
 En la Tierra Ronnal y Robert se encontraban intercambiando golpes en sus super formas fase 2, estos peleaban ferozmente. Robert le conecta un golpe a Ronnal haciendo que se tambaleé en el aire, pero este rápidamente vuela posicionándose detrás de Robert para conectarle un izquierdazo a gran velocidad, pero Robert lo esquiva fácilmente y le da un fuerte golpe a Ronnal mandándolo a volar por el impacto a poca distancia.
 Ronnal: Mierda… sí que te has vuelvo más fuerte… – decía mientras se acercaba limpiándose la nariz con sangre.
 Robert: Desde el torneo… me dedique a entrenar sin parar, fui un completo inútil, ni siquiera dure más de 10 segundos… ¡Así que prefiero estar mejor preparado!
@@ -48,7 +48,7 @@ Robert: Así se piensa, así que ten en cuenta eso para cuando entrenemos, pero 
 Ronnal: De acuerdo… dejémonos de charlas y sigamos entrenando, ya me recuperé un poco – decía mientras se ponía en pose de pelea.
 Robert: así me gusta… ¡aquí vamos!
 Ambos se lanzan para continuar con su entrenamiento.
-Capítulo 5
+# Capítulo 5
 Pasamos a un plano donde se vería el regente del imperio sentado junto a dos chicas con ropa provocativa, con un ambiente de empoderamiento y superioridad. Cuando se abre una puerta al frente entrando un operador.
 Operador: Señor… Lamento las molestias, pero necesito hablar con usted…
 El regente se levanta de su asiento mientras las dos chicas lo miran sorprendidas y con algo de miedo.
@@ -61,7 +61,7 @@ El regente se detiene y voltea a verlo, esperando a que continue.
 Operador: E-eh… No tenemos más datos… solo… sabes que no serán problemas para nosotros… miembros de la clase A podrán con ellos si es necesario…
 ???: Como sea, es interesante, pueden sernos de utilidad. Cuando lleguemos localízalos para dirigirnos a su ubicación y unirlos al imperio.
 Operador: ¡S-Si señor!
-Capítulo 6
+# Capítulo 6
 Devuelta en la Tierra Ronnal y Robert terminaban de entrenar, ambos estaban bastante cansados y con rasguños en sus super formas 2.
 Robert: ah… por hoy está bien… – decía algo cansado mientras volvía a su estado base.
 Ronnal: Esta bien… – vuelve a su estado base – por cierto, ¿cuándo vuelven Alex y Basty? Llevan entrenando con Godgirl hace una semana en su planeta…
@@ -73,7 +73,7 @@ Robert: Lo tengo muy claro, le admiro bastante por la capacidad de entrenarnos�
 Ronnal: Si… me hubiese gustado tener mejores resultados, pero ya estoy muy detrás de su nivel… hace mucho lo estoy.
 Robert: Descuida, aunque no estemos a su nivel aun somos útiles cuando ellos no estén aquí en la Tierra, ambos ahora mismo somos los más fuertes del planeta, quédate con eso.
 Ronnal le sonríe y mira al atardecer mientras Robert también. 
-Capítulo 7
+# Capítulo 7
 Mientras tanto en el planeta de Godgirl:
 Alex y Basty se encontraban siguiendo a gran velocidad en el cielo a Mike, ambos desprendiendo un aura llameante azul mientras Mike desprendía su aura llameante roja. Mike frena a Basty con una fuerte patada en el rostro mientras que a Alex lo toma del cuello y lo azota contra el cuerpo de Basty mandándolos contra el suelo, sin darles un respiro les lanza una gran bola de energía a ambos explotando el terreno dejando un gran agujero, el polvo se disipa y Mike pierde de vista a ambos quienes de repente patean a Mike por detrás en su nuca mandándolo contra el suelo, Alex carga un ataque y se lanza contra Mike para tomarlo desprevenido pateándole el tobillo haciendo que pierda equilibrio y golpearlo en el torso con el ataque cargado, explotándolo y haciendo que choque contra el terreno. Basty por otro lado le lanza múltiples ráfagas de energía, pero Mike las esquiva con facilidad y se lanza contra el para golpearlo con un cabezazo en la nariz, Alex lo toma por la espalda sujetándolo de los brazos, pero Mike le dé vuelve un cabezazo también dejando a ambos aturdidos por unos momentos para luego tomar a ambos del cuello con fuerza.
 Mike: Si que me han sorprendido… pero, deberán esforzarse más. - Dice apretando más fuerte sus cuellos mientras irradia un aura llameante, su nariz sangraba un poco.
@@ -88,7 +88,7 @@ Mike se va donde Godgirl limpiándose de su combate.
 Mike: ¿Qué opina de ellos ahora?
 Godgirl sonriendo se saca sus gafas acomodándose el cabello.
 Godgirl: Te hicieron sangrar, ya es un gran logro.
-Capítulo 8
+# Capítulo 8
 Dos días después, era de mañana temprano, Alex y Basty recién despertaban se encontraban en un pequeño lugar que Godgirl hizo cuando se quedan mucho tiempo en su planeta, era un pequeño refugio dentro del gran árbol de Godgirl.
 Alex: Hoy nos tenemos que ir – Decía Alex estirándose mientras bostezaba.
 Basty: uhm… Si… aunque me gustaría quedarme un poco más si no te molesta.
@@ -104,7 +104,7 @@ Godgirl: Mmm… bueno, eso es porque la forma ultra no es algo relacionada a esa
 Basty: oh… ya veo, entonces será más complicado de lo que pensé… aunque ya la domino del todo, solo… me costará un poco evolucionarla como se debe.
 Godgirl: Así es, si quieren antes de que se vayan puedo ayudarles un poco con eso.
 Alex y Basty asienten para entrenar sus capacidades y llevar más lejos aún sus formas ultras.
-Capítulo 9
+# Capítulo 9
 Mientras tanto en la Tierra se ve que la flota del regente ha llegado a la Tierra. La nave principal se encuentra en la superficie de la Tierra mientras las demás naves alrededor esperan órdenes.
 Operador: S-Señor… hemos llegado a la Tierra… hemos localizado a los dos sujetos al sur del planeta… - dijo mientras miraba al regente sujetando su tableta.
 Regente: Bien… antes de conquistar este planeta iremos por ellos – Decía mientras estaba sentado observando el planeta.
@@ -130,7 +130,7 @@ Thailon: Conquistaremos este planeta por las malas. – dice sonriendo mirándol
 Robert: Carajo… Ronnal, que no se acerquen a la Tierra, ¡mantengamos a raya a estos idiotas!
 Ronnal: ¡Si!
 Ambos vuelan al cielo a la gran multitud de guerreros listos para combatir mientras gritan liberando energía.
-Capítulo 10
+# Capítulo 10
 Robert y Ronnal se lanzan contra los guerreros, golpeando y atacando a los guerreros, Robert se percata de la gran diferencia de poder entre ellos.
 Robert: ¡Ronnal, no será tan complicado, trata de no matarlos! ¡mantén a raya a tantos como puedas, dividámonos! – decía mientras dejaba inconsciente a algunos.
 Ronnal asiente y se aleja un poco de la zona, apartando a varios guerreros para que le sigan y comienza a contraatacar de forma rápida.
@@ -147,7 +147,7 @@ Thailon: Eso es solo el inicio. – alza la mano nuevamente mientras detrás de 
 Thailon: Ella es mi mejor guerrera, aunque sea una chica, es la mejor y más capaz en conquistar cualquier planeta, incluso por su cuenta. – dice sonriendo mientras palmeándole la espalda. – Ella es Katie.
 Katie no dice nada y mira a Ronnal y Robert de manera fija mientras suspira cerrando los ojos con una expresión desanimada.
 Robert: mierda… ¿enserio me harás luchar con una niña?
-Capítulo 11
+# Capítulo 11
 Katie, Ronnal y Robert se miran fijamente mientras ella da un paso al frente, la tensión es clara, el viento soplando sobre ellos.
 Robert: Bien… me encargare. Será rápido. – dice dando un paso al frente, pero Ronnal lo detiene sujetando su muñeca.
 Ronnal: Espera, me gustaría pelear yo, quiero demostrar que tal vez no sea un estorbo… - dice poniéndose frente a Robert mirando a Katie.
@@ -162,7 +162,7 @@ Katie vuela contra Ronnal, pero este la esquiva y contraataca golpeando su espal
 Ronnal: a-ah… - respiraba entrecortado mientras sangraba del labio y apenas podía mantenerse en pie consciente.
 Katie se levanta y se sacudió el polvo mientras escupe sangre, acomodándose los hombros caminando hacia Ronnal.
 Ronnal: carajo… - dice algo asustado mientras se sujeta el estómago y temblaban sus piernas.
-Capítulo 12
+# Capítulo 12
 Ronnal intenta escapar volando, pero detrás de él Katie lo alcanzó, sujetándole el pie y lanzándolo con fuerza contra el suelo cerca de Robert.
 Robert: ¡Ronnal! – se acerca a él para ayudarle – ¿estás bien? Déjame pelear por ti.
 Ronnal: a-ahg… mierda… aun puedo pelear… - escupe sangre mientras se sujeta fuerte de Robert.
@@ -182,7 +182,7 @@ Katie: ¡Suéltame! – dice forcejeando.
 Robert: hey… tranquila, por favor escúchame, no quiero pelear con una niña… sé que estas pasando por mucho. De los otros guerreros que enfrente hace un rato solo vi a hombres mayores y si no me equivoco representan gran parte de su imperio… tu solo eres una chica con un gran potencial para el bando equivocado.
 Katie se detiene y mira a Robert por unos momentos, mientras dejaba de forcejear.
 Katie: tú no entiendes… no se puede detener al imperio… es unirse o morir… - le dio un cabezazo a Robert, soltándose, y lo embistió, haciéndolo chocar contra el suelo con una nube de polvo. 
-Capítulo 13
+# Capítulo 13
 Robert se levanta limpiándose la nariz, mientras Thailon mira riendo detrás.
 Robert: Bien… lo siento pequeña… - dice poniéndose de pie mientras comienza a liberar energía. Todo el lugar tiembla.
 Thailon, Katie y los demás miran con expectativa lo que está ocurriendo y en un momento Robert grita y accede a su super forma, rodeado de un aura dorada mientras el polvo se sacude a su alrededor.
@@ -193,7 +193,7 @@ Robert se sorprende mientras mira a Katie. Ronnal también se sorprende mientras
 Robert: vaya… no pensé que tendrías la super forma, de echo tengo dudas si otros también la tienen…
 Katie: soy la única del imperio con esta habilidad… - dice caminando hacia Robert.
 Robert: Eso es interesante… ¿Thailon no la tiene? – pero antes de seguir hablando Katie se lanza para continuar paleando, Robert esquiva los ataques y vuela a gran velocidad mientras Katie le sigue de cerca intercambiando golpes a toda velocidad. 
-Capítulo 14
+# Capítulo 14
 Robert y Katie combaten por todo el terreno volando por los aires hasta sobrepasar las nubes. Robert comienza a analizar los patrones de Katie y nota muchas aperturas donde aprovecha para contraatacar.
 Robert: ¡Por favor solo escucha!, tienes que detenerte, ¿no te das cuenta que estás trabajando para unos sanguinarios? Dime, que beneficios traen conquistar la Tierra para su imperio, ¡solo mataran gente inocente! – decía esquivando los ataques de Katie, pero nota que cada vez son más lentos.
 Katie: ¡¿crees que no lo sé!?, sé que conquistar trae solo masacres y perdición a los planetas… pero no hay nada que hacer… - se detiene mientras aprieta los puños.
@@ -208,7 +208,7 @@ Katie duda unos segundos, pero luego comienza a contar su historia.
 Katie termina de contar su historia y Robert le mira con tristeza y empatía, se acerca a ella y le da un abrazo a la chica, esta se sorprende, pero le devuelve el abrazo.
 Robert: Tranquila… tengo un plan para acabar con esto, solo… necesito que estes de mi lado. Te prometo que te liberare de esto.
 Katie llorando en su hombro asiente en silencio. Ambos se quedan en el cielo mientras Thailon observa sin saber porque demoran tanto en el cielo, mientras Ronnal se pregunta lo mismo.
-Capítulo 15
+# Capítulo 15
 Katie se aparta de Robert limpiándose las lágrimas.
 Katie: ¿Como piensas acabar con el imperio…? Es prácticamente imposible… los rumores dicen que Thailon es indestructible, que una vez destruyo 7 sistemas solares, nadie quien le haya retado ha vivido para contarlo… es como si fuera una especie de dios… su ira es insaciable y solo lo hace cuando se cansa o queda inconsciente… una sola vez lo vi enojado y… es un monstruo… - dice algo desesperada.
 Robert: Tranquila… un dios no luciría como ese idiota, ten por seguro que puedo hacerle frente, no has visto todo mi poder, además… cuento con mi hijo para cuando llegue a la Tierra.
@@ -225,7 +225,7 @@ Thailon: así que… ¿me traicionaras? ¿después de todo lo que he hecho por t
 Robert: Ronnal, quédate con Katie – dice caminando donde el regente liberando más energía con su aura dorada.
 Ronnal: ¡S-sí señor!... descuida, yo te cuido… - dice Ronnal levantándose apenas de la roca.
 Katie: dudo que apenas puedas cuidarte tu…
-Capítulo 16
+# Capítulo 16
 Robert y Thailon se miran fijamente, la tensión es clara en el ambiente, todos miran con temor el próximo movimiento de Thailon mientras este se encuentra sereno mirando a Robert. Robert carga energía y se lanza a toda velocidad para teletransportarse detrás de Thailon para conectarle una patada en el rostro, pero este la bloquea con un movimiento preciso con su antebrazo parando el pie de Robert.
 Robert se sorprende ante esto, pero rápidamente se recompone posicionándose frente a Thailon para darle un fuerte golpe en el pecho que apenas retrocede.
 Thailon: oh vamos, si eso es lo mejor que tienes estas en problemas. – dice alzando la vista mientras se limpia con la mano.
@@ -234,7 +234,7 @@ Ronnal: así que… ¿estamos bien? – dice sonriendo mientras jadeaba.
 Katie: … Si tu amigo no puede contra Thailon, estamos muertos. – dice seria ayudándole a apoyarse.
 Mientras Robert intercambia golpes contra Thailon, pero este apenas se ve que se está esforzando en esquivar y contraatacar, Robert comienza a percatarse de su nivel así que patea al regente para tomar distancia, en el aire carga energía liberando un aura agresiva con rayos pasando a la fase 2. Rápidamente impacta con el regente dándole un cabezazo en el rostro haciendo que sangre de la nariz retrocediendo.
 Thailon: Nada mal… sin duda esas formas inferiores son impresionantes, para guerreros patéticos como tú y Katie… - dice limpiándose la nariz con el dedo para lamerlo.
-Capítulo 17
+# Capítulo 17
 Continuamos con la pelea entre Robert y Thailon, se muestra pareja ambos están igualados pero el regente aún se nota sereno mientras contraataca mientras Robert con expresión más tensa.
 Thailon: Increíble… un guerrero formidable por fin me desafía… ¡no sabes cuanto he esperado por esto! – conecta un fuerte golpe a Robert haciendo que escupa sangre.
 Robert: Créeme… pelear contigo no nada comparado con lo que he vivido. – dice golpeando el rostro del regente.
@@ -247,7 +247,7 @@ Thailon: Digamos que soy una excepción… un guerrero primal moderno, aunque no
 Robert quedo mirándolo con asombro, pero se relajada estirando sus brazos.
 Robert: vaya… ahora si me pondré serio, no permitiré que generes más caos, llegaste al planeta equivocado. – dice escupiendo y apretando los puños
 Thailon: no me subestimes viejo, ni siquiera haz visto mi poder brillar, tus formas inferiores no son nada comparadas con mi verdadero poder, y créeme, nadie ha vivido lo suficiente para contarlo… – dice sonriendo mientras su aura se torna más oscura.
-Capítulo 18
+# Capítulo 18
 Se escuchaban impactos desde el cielo, las nubes se abrían por las ondas de choques entre Robert y Thailon, mientras Ronnal, Katie y el imperio veían desde abajo con atención la magnitud del combate.
 Katie: Jamás había visto a alguien enfrentar a Thailon durante mucho tiempo… - dice sujetando a Ronnal mirando al cielo preocupada.
 Ronnal: Podrá vencerlo… te lo aseguro – dice mirando con dificultad.
@@ -261,7 +261,7 @@ Thailon: Sin duda te respeto viejo, jamás alguien me había dado una buena pele
 Robert se recompone lentamente, su respiración agitada entrecortada por el dolor. Apretando los puños con fuerza, clava una mirada furiosa en Thailon, sus ojos ardiendo con determinación. De pronto, comienza a cargar una inmensa cantidad de energía. Un rugido gutural escapa de su garganta, creciendo progresivamente en volumen e intensidad. Su aura dorada, antes debilitada, estalla en un torbellino agresivo y salvaje, girando a su alrededor como un huracán descontrolado. Rayos eléctricos crepitan y recorren su cuerpo, chispeando con violencia mientras su grito se hace ensordecedor. 
 El suelo bajo sus pies se agrieta por la presión. Con un movimiento brusco, agarra la parte superior de su traje destrozado con una mano y lo arranca de un tirón, dejando su pecho desnudo al descubierto. Los músculos se tensan, las venas se marcan en su piel, y una oleada aún mayor de energía explota desde su interior. Su cabello, corto y calvo hasta ahora, comienza a crecer con furia, alargándose en mechones afilados y desordenados que caen por su espalda y hombros. Grita con toda su rabia, su voz resonando como un trueno en el cielo, hasta que, con un estallido final, su aura se expande en una esfera violenta de luz y rayos, alcanzando por completo la fase 3. 
 Las nubes se parten en dos por la fuerza del impacto. El aire tiembla, y una onda de choque sacude el terreno abajo, haciendo retroceder a Katie, Ronnal y los guerreros del imperio. Robert, ahora transformado, respira pesadamente, su cabello largo ondeando con el viento de su propia energía, su aura dorada más brillante y agresiva que nunca, rodeada de relámpagos que chispean sin control. Frente a él, Thailon entrecierra los ojos, su sonrisa torcida apenas visible tras el brillo cegador.
-Capítulo 19
+# Capítulo 19
 Robert en su fase 3 mira al regente mientras se pone en pose de combate, todos miran con asombro el aspecto de Robert y como irradia poder.
 Katie: ¿¡Q-que demonios le ocurrió, q-que es ese poder, si quiera es posible!? – dice sorprendida admirando la fase 3 de Robert
 Ronnal: Je… ¿sorprendente no?, ese poder es el tercer nivel de la super forma… hemos pasado por mucho aquí en la Tierra, obtener ese poder no fue fácil… yo también la tengo. – dice mirando a Robert mientras sonríe.
@@ -273,7 +273,7 @@ Robert comienza a jadear por el esfuerzo, su aura se hacía algo débil por el u
 Thailon estaba quieto con la cabeza inclinada atrás con el mentón arriba mientras comenzaba a reír lentamente inclinando la cabeza para mirar a Robert con un semblante serio y oscuro, esta tenía el rostro ensangrentado y el puño de Robert quedo marcado en su pecho por el impacto
 Thailon: vaya, vaya… todo eso… por un poco de sangre – decía limpiándose y mirando su mano manchada – fue divertido viejo… pero este planeta ya es mío.
 Thailon se lanza a contra Robert y este aprieta los puños y los dientes lanzándose también mientras ambos gritan. Quedando en un panel de ambos apunto de colisionar.
-Capítulo 20
+# Capítulo 20
 Ambos chocan los puños generando un impacto enorme en el área el suelo se abre todo el terreno tiembla y la onda de choque se expande llegando donde estaba Ronnal, Katie y el imperio con un fuerte viento arrasando con casi todo, todos se cubren y se ponen a cubierto para no ser arrastrados por el impacto.
 En un primer plano se nota como el impacto fue tal que ninguno gano el choque sino más bien Robert sufrió más, su muñeca se rompe mientras sale disparado atrás, Thailon sale disparado al cielo ambos vuelan en un parpadeo por el impacto.
 Robert cae y trata de recomponerse saliendo de los escombros, pero el esfuerzo que hace es demasiado nota su mano rota sangrando mientras trata de mantenerse en pie temblando, no podrá mantener mucho tiempo su fase 3 consume mucha energía y cada vez le cuesta más respirar correctamente.
@@ -287,7 +287,7 @@ Ronnal: ¡No puedo dejar que muera!, ¡Mierda! ¿¡Como es posible que sea tan f
 Thailon vuelve a las cercanías donde se encuentra Ronnal, Katie y el imperio, todos lo miran con atención, temor y algo de pena por el sufrimiento del guerrero más fuerte que han conocido, quien se atrevió a desafiar a su regente invencible.
 Thailon se encontraba con el cuerpo de Robert apenas consciente tomado del cuello en su estado base, cubierto de rasguños, manchas de sangre, moretones y su traje desgastado.
 Thailon: El héroe de la Tierra a caído – dice riendo mientras alza el cuerpo de Robert apretando su cuello – ¡te matare frente a todos y así el planeta será mío, nadie podrá derrotarme!
-Capítulo 21
+# Capítulo 21
 Thailon sujeta del cuello a Robert mientras ejerce más presión, este solo puede jadear y hacer gritos ahogados mientras escupe sangre en la mano del regente.
 Thailon: Dije que tendría tu cabeza como trofeo… - comienza a reír de forma sádica. 
 Ronnal impotente comienza a cargar energía transformándose en su super forma fase 2 mientras Katie intenta calmarlo sujetando sus hombros. – ¡no seas tonto, el apenas pudo hacerle algo, solo iras a que te mate!
@@ -307,7 +307,7 @@ Thailon mira a Alex con algo de curiosidad: Vaya… al pare-
 Rápidamente Alex el interrumpe y se detiene frente al regente a centímetros de distancia.
 Alex: no me importa quien seas o que intenciones tengas aquí, acabas de cometer un grave error, meterte con mi planeta y dañar a mi padre. Esto no acabara bien para ti. – dice en un tono desafiante.
 El ambiente se torna silencioso mientras Robert mira a Alex junto al regente, pero cierra los ojos y descansa con una sonrisa.
-Capítulo 22
+# Capítulo 22
 El lugar se torna silencioso, todos observando a Thailon junto a Alex mientras se miran fijamente.
 Thailon: je… sin rodeos, me gusta, espero ofrezcas un mejor combate que el pate- 
 Antes que terminara la frase Alex le conecta un fuerte golpe en el estómago impactando todo el terreno en una onda que rompe el suelo mandándolo volando contra el terreno, mientras Alex con un rostro sereno se incorpora mirando atrás a los demás.
@@ -321,7 +321,7 @@ Thailon: oh jeje… eso era lo que quería… un digno oponente de mi poder… f
 Alex le sigue de cerca mientras el regente ríe y se detiene en seco para impactar contra Alex, ambos chocan sus antebrazos e intercambian ataques a toda velocidad, pero Alex los esquiva fácilmente con un rostro sereno, pero con la mirada precisa en cada movimiento del regente, hasta que le conecta otro fuerte golpe en el estómago, pero esta vez el impacto no lo hizo retroceder.
 Alex: ¿uh? – dice con el puño alzado y en pose de pelea.
 Thailon: Si… quiero más… - dice en un tono ronco levantando la cabeza mientras derrama sangre de la boca con una mirada despiadada
-Capítulo 23
+# Capítulo 23
 Pasamos a un plano donde Alex y Thailon intercambian ataques a una velocidad increíble, donde Alex conecta un par de golpes haciendo retroceder al regente.
 Alex: no se quien mierda eres o que buscas en este lugar, será mejor que hables ya antes que me descontrole… - dice dándole golpes en el rostro al regente.
 Thailon recibiendo los golpes detiene el puño de Alex y le mira desafiante.
@@ -335,7 +335,7 @@ Thailon: Con esa forma inferior no me intimidaras… - se lanza contra Alex inte
 Alex esquiva todo con facilidad mientras está tranquilo e incluso cierra los ojos hasta que detiene uno de sus golpes con un dedo impresionando al regente, seguidamente su cara cambia a agonía cuando Alex le da una fuerte patada en el estómago impactando todo el cielo, las nubes se disipan mandando al regente a la superficie de la Tierra.
 Thailon derramaba sangre mientras se sujeta el estómago con fuerza jadeando y temblando.
 Thailon: s-si… s-si… m-mas… - mientras habla su aura se torna rojiza oscura mientras comienza a liberar gran cantidad de energía, poco a poco su sangre comienza a entrar nuevamente en su cuerpo por las heridas de rasguños y marcas. – a-ahg… prepárate… - se lanza a toda velocidad contra Alex impactando ambos en un fuerte choque juntos.
-Capítulo 24
+# Capítulo 24
 El impacto es colosal, todos escuchan y sienten como el impacto llego a donde se encontraban los espectadores, ciudades enteras debajo de ellos tiemblan por la onda rompiendo cristales de los edificios.
 Alex rápidamente patea al regente para seguidamente empujarlo con su cuerpo lejos de toda civilización movilizándose a toda velocidad para cruzar la Tierra a un lugar desértico lleno de rocas, empujando al regente contra una montaña.
 Alex: si no controlo a este idiota, podría destruir la Tierra en un movimiento… debo ser precavido.
@@ -354,7 +354,7 @@ Katie: oh no… no, no, no… estamos muertos… - dice agarrando su rostro con 
 Ronnal: ustedes vayan a ver a Alex, yo me quedare con Robert aquí… - dice sujetando a Robert
 Basty asiente: Vamos Katie – dice volando en dirección al aura oscura que se notaba a la distancia.
 Katie: s-si… - le sigue de cerca.
-Capítulo 25
+# Capítulo 25
 Se ve en primer plano el aspecto de Thailon, su rostro se ve oscuro su cabello se erizo de forma puntiaguda tornando un color rojo, su musculatura ahora es más grande mientras las heridas que tenía ya no están, su sangre que quedo por el cuerpo se disipaba con el aura.
 Thailon: ah… hace años nadie me ha hecho usar este poder… esta… es una super forma real… no sus formas inferiores… mi sangre arde con ganas de más… ¡Necesito más combustible! – se lanza contra Alex a toda velocidad, pero Alex reacciona y le sigue el paso intercambiando ataques a toda velocidad.
 Katie y Basty llegan al lugar del combate junto a la flota del regente mirando desde la distancia. El operador desde la nave observaba con terror al regente.
@@ -368,7 +368,7 @@ Katie le mira aun con dudas, pero intenta respirar y mira con atención.
 Alex sigue esquivando y contraatacando los ataques del regente, pero con dificultad, este se adapta demasiado rápido y cada ataque que recibe lo hace más fuerte.
 Alex: ah… bien… hora de tomar el control de nuevo. – toma distancia y cierra los ojos mientras su aura comienza a cambiar, el regente se lanza con todo lo que tiene para encestarle un puñetazo en el rostro a Alex haciéndolo sangrar, pero el golpe ni siquiera lo movió.
 Alex mira a Thailon y su aura desprende un color azul y llameante iluminando toda la zona pasando a su forma ultra con un gran impacto haciendo retroceder al regente quien lo mira sorprendido.
-Capítulo 26
+# Capítulo 26
 Alex se pone en pose de pelea mientras mira al regente, este con ira explota liberando más energía impulsándose a toda velocidad para atacar, pero Alex lo esquiva de forma rápida, el regente se detiene en seco y se gira para continuar con los golpes y ataques a toda velocidad, Alex los esquiva con gracia su aura ondula con calma mientras cierra los ojos, puede visualizar cada movimiento del regente aun con los ojos cerrados.
 Katie mira impresionada el cambio de Alex: ¿¡q-que es ese poder, como es posible que aun supere a Thailon!? N-no puedo sentir ninguna energía proviniendo de él… ¿si quiera es real…?
 Basty: ¿difícil de procesar verdad?, aunque no lo creas también soy así de fuerte – dice cruzándose de brazos.
@@ -378,7 +378,7 @@ Alex: uhm… ya noté que te haces más fuerte cada golpe que doy… tu regenera
 Los impactos suenan por todo el lugar, las montañas rocosas del lugar caen por cada onda de los impactos, todos miran perplejos en el imperio como otro guerrero es capaz de desafiar al regente, no pueden creer lo que están viendo, muertos de miedo mientras hablan entre ellos si acaso el planeta realmente vale tanto la pena para luchar a muerte.
 Operador dentro de la nave: A-ah… m-mierda… q-que haremos de todas formas si el regente gana… cuando usa esa forma es imparable… destruirá todo el maldito sistema solar… ah… temía que pasará esto… ¡debemos irnos de aquí cuanto antes…!
 Alex embiste al regente con toda la fuerza que tiene hundiendo el pecho del regente en un fuerte impacto de un golpe, pero este se regenera y atacando con más ferocidad, para luego tomar a Alex de la espalda y sujetar sus brazos para comenzar a golpear su rostro con fuertes puñetazos que impactan incluso contra el suelo las ondas haciendo que sangre y sin poder moverse.
-Capítulo 27
+# Capítulo 27
 Katie y Basty miran la brutalidad de Thailon a Alex, el lugar comienza a ser un caos, el poder de los dos abruma toda la zona.
 Katia: ¡a-ah! ¿Qué esperas, porque no vas ayudar a tu amigo? – dice sujetando el brazo de Basty.
 Basty: o-oye… tranquila... solo mira – dice apuntando a Alex.
@@ -389,7 +389,7 @@ Alex carga más energía y respira lo más que pueda, para luego lanzarse contra
 Alex en su mente: bien… solo tengo unos minutos para acabar contigo, usare todo mi poder ahora… - se lanza y el regente también impactando ambos en un fuerte choque colosal irradiando gran poder y energía en el espacio. Alex esquiva sus ataques encestándole golpes devastadores en su torso tales que podía notar como la regeneración del regente se hacía lenta por la magnitud de los golpes seguía abrumando al regente hasta llegar a un punto donde con toda su fuerza de un solo golpe atraviesa el pecho del regente.
 Thailon escupió sangre, su pecho fue totalmente perforado, Alex tenía una mirada de asco y pena al tener que recurrir a una forma tan baja de acabar con su oponente, pero era la forma más óptima para salvar el planeta de un caos mayor.
 Alex en su mente: Dudo que puedas regenerar algo así… fuiste un buen oponente, aunque ambos sabemos que no podíamos convivir… - saca el brazo del pecho y con la otra mano la posa en el rostro del regente – adiós – con una gran ráfaga de energía la dispara en el rostro del regente haciendo que su cuerpo desaparezca en el vacío espacio.
-Capítulo 28
+# Capítulo 28
 Todos presencian la calma, ya no se sienten más impactos ni ondas de choques en el cielo, ningún ruido se hace presente.
 Katie: ¿Q-que paso…? – dice mirando al cielo
 Basty: se acabó… - dice sonriendo y dándole una palmada al hombro de Katie.
@@ -405,7 +405,7 @@ Alex: Claro, ustedes venían a invadir la Tierra, ¿no?
 Operador: a-ah… s-si… esos eran los planes de Thailon… uhm… no queremos ser molestias, pero… sin nuestro regente nuestro imperio debe buscar uno nuevo… y según antiguos mandatos quien derrote al regente actual será nuestro emperador…
 Alex, Basty y Katie se miran entre ellos sorprendidos.
 Alex: eh… para nada.
-Capítulo 29
+# Capítulo 29
 El lugar queda en silencio unos momentos.
 Operador: p-pero… fue el único capaz de derrotar a Thailon… años de tiranía, sufrimiento, caos, opresión… ¡hemos sido liberados por usted!
 Alex: ¿eh?, ¿no están molestos porque mate a su líder?
@@ -429,7 +429,7 @@ Alex: no hay problema, será un gusto tenerte aquí… uhm… Katie… ¿no? –
 Katie: e-eh… si… me llamo Katie… gracias… Alex… - dice mirando a Alex y Basty sintiéndose aliviada de poder vivir en paz y comenzar una nueva etapa en su vida.
 Alex le mira un poco para luego sonreír y voltear a ver el atardecer, los tres miran al sol ocultándose en un atardecer anaranjado luego del caos.
 Mini Arco, “Adaptación”.
-Capítulo 30
+# Capítulo 30
 Pasan los días con normalidad, luego de haber derrotado al imperio del regente Thailon, Katie se quedó en la Tierra a comenzar una nueva vida lejos del imperio ya extinto. Katie se encontraba en una montaña alejada de la civilización donde tenía un pequeño refugio, se encontraba mirando a la ciudad y el lugar desde la orilla de la montaña sentada con una expresión melancólica abrazando sus piernas.
 El viento soplaba suave entre los árboles. De pronto, una silueta descendió entre las nubes
 Alex: ¡Hola! – dice descendiendo y camina cerca de ella.
@@ -445,7 +445,7 @@ Katie: ¿Y si no puedo...? cometí muchas atrocidades por amenaza de Thailon… 
 Alex: hey… Katie… no es tu culpa… no es tu culpa… - extiende su mano y la posa en su hombro para calmarla.
 Comienzan a salirle lágrimas a Katie, se cubre la cara sollozando mientras murmura “soy horrible”
 Alex se acerca a ella un poco y sin saber cómo reaccionar le abraza y no dice nada, solo los dos abrazados a la orilla de la montaña mientras la brisa los envuelve, no hay nada que decir, solo comprender. Katie nunca había sido escuchada o que alguien se preocupara por ella, se sentía por primera vez en su vida… importante y no solo un arma, mientras pensaba “Tal vez... solo tal vez, esta vez sí pueda vivir…”
-Capítulo 31
+# Capítulo 31
 Alex y Katie se encuentran abrazados, Katie se calma y deja de llorar limpiando sus lágrimas para luego apartarse de Alex.
 Katie: No debiste molestarte en venir… - decía volviendo a abrazar sus piernas tirando un mechón de su rostro tras de su oreja.
 Alex: No me molesta… además te he buscado por un par de días… - se acomoda apoyando las manos en la hierba
@@ -457,7 +457,7 @@ Katie miraba en silencio con curiosidad y melancolía. Toda su vida fue usada co
 Katie: En serio no dejas de sorprenderme… eres muy fuerte… derrotaste al idiota que muchos idolatraban como indestructible… proteges este planeta con tu vida… amas a tus amigos y harías lo que fuera por ellos… ¿nunca se te ha subido el poder a la cabeza, o como logras tener todo bajo control? 
 Alex: No siempre he manejado las cosas bien… he pasado por mucho aquí en este planeta, no todo es color de rosa, he visto a mucha gente morir, mucha destrucción, me han intentado matar toda mi vida… si soy así de fuerte es porque la vida me forjó así, y si doy mucho a los demás es por una persona especial que me crio y me dio valores que a día de hoy llevo conmigo…
 Katie lo mira de reojo y esboza una leve sonrisa. Saber que el héroe que la rescató también ha vivido tanto dolor... le hace pensar que, quizá, ella también pueda cambiar. Tal vez no está tan rota como pensaba.
-Capítulo 32
+# Capítulo 32
 Ambos se quedan en silencio unos momentos, la brisa los abraza y las hojas de los árboles suenan.
 Alex: Bueno… otra cosa, tampoco vine solo a charlar, vine a darte la bienvenida a la Tierra como se debe. – se levanta y sacude su ropa.
 Katie: ¿e-eh…? ¿Bienvenida…? No hace falta… ya estoy cómoda aquí sin molestar a nadie… - se abraza a sí misma y mira de reojo.
@@ -476,7 +476,7 @@ Alex: Tranquila, puedes abrir los ojos. – dice soltando su mano.
 Katie abre sus ojos lentamente, pestañeando varias veces por la repentina luz que la envuelve. Frente a ella se extiende un parque inmenso, vibrante y lleno de vida. Carpas de colores ondean suavemente con el viento, decoradas con luces brillantes que parpadean en tonos cálidos. Niños corren de un lado a otro riendo, mientras familias pasean con algodón de azúcar en las manos y globos flotando sobre sus cabezas. Se escuchan risas, música suave, el sonido de una rueda girando y campanitas de juegos que premian a los ganadores.
 Los aromas la envuelven de inmediato: dulce caramelo, maíz tostado, masa frita… algo que jamás había olido, pero que le resulta cálido.
 Katie se queda inmóvil. Sus ojos recorren el lugar lentamente, tratando de procesar todo. Es como si hubiera aterrizado en otro mundo, uno donde la guerra, la obediencia y el miedo no existen. Sus labios se entreabren con suavidad, y por primera vez, no hay tensión en su cuerpo. Solo asombro… y una sensación extraña en el pecho que no sabe cómo nombrar.
-Capítulo 33
+# Capítulo 33
 Alex observa su reacción con ternura y sonríe con suavidad. Sin decir una palabra, toma la mano de Katie y la guía entre la multitud. Caminan entre risas, luces titilantes y aromas envolventes. A cada paso, los ojos de Katie no dejan de moverse, capturando todo lo que la rodea: niños corriendo con premios en las manos, parejas compartiendo comida, juegos mecánicos girando entre música alegre.
 Katie parpadea, visiblemente abrumada. Todo es demasiado… vivo. Tanta gente riendo, jugando, existiendo sin miedo… jamás había visto algo así.
 Alex se detiene frente a un puesto de algodón de azúcar y compra dos. Le extiende uno a Katie con una sonrisa. Ella lo toma con cautela, lo huele, y lo observa con una mezcla de curiosidad y desconfianza.
@@ -491,7 +491,7 @@ Más tarde, ambos salen del parque a oscuras, Katie se encontraba bastante conte
 Katie: Gracias… me la pase muy bien… jamás pensé… que vivir en paz significaría cosas como estas…
 Alex: No hay de que… cuando era pequeño mi abuelo me llevaba a parques… aunque tuve una infancia difícil el… siempre quería verme feliz, supongo que lo aprendí de él…
 Katie sonríe mirándole de reojo mientras caminaban, la noche estaba fría y fresca, ambos simplemente disfrutando del momento.
-Capítulo 34
+# Capítulo 34
 Alex y Katie caminaban debajo de unos arboles iluminados por la fina luz de la luna.
 Katie: No sé cómo agradecerte… eres igual a tu padre… no me juzgaste ni me trataste diferente a pesar de estar bajo ordenes de Thailon…
 Alex: Descuida, no tienes que agradecerme, es lo menos que puedo hacer por ti. Mi padre tiene buen ojo con las personas… y sé que solo hacías todo eso para sobrevivir… no tenías otra opción.
@@ -504,7 +504,7 @@ Alex: ¿No quieres que te acompañe a tu refugio…? – dice mirando arriba
 Katie: No hace falta… ya haz hecho mucho hoy… y… ya sabes donde vivo… así que… nos vemos luego… - dice elevándose mas para volar eh irse volando.
 Alex: De acuerdo… nos vemos. – dice mirando como Katie se aleja del lugar. 
 Katie aterriza en su refugio. En lugar de esconderse, se sienta al borde de la montaña, mira al cielo estrellado, y por primera vez… sonríe sola.
-Capítulo 35
+# Capítulo 35
 Al día siguiente, Katie despertó en su refugio. Los rayos rojizos del amanecer se filtraban por el lugar, tiñéndolo de calidez mientras ella seguía recostada en su cama. Se sienta en su cama aun con una sensación extraña, aun no procesa la idea de despertar sabiendo que es libre, comienza a recordar el día anterior junto a Alex y lo bien que lo paso por primera vez… sonríe al recodar comer la cosa esponjosa rosa.
 Ella se prepara para el día, se asea y viste su ropa, luego se dirige a realizar su entrenamiento matutino, comienza a realizar flexiones, sentadillas y Crunch. Entrena hasta quedar agotada sintiendo su cuerpo tenso, su estomago comienza a rugir. En unos momentos llega Alex a visitarle descendiendo por el aire.
 Alex: ¡Hola! – se acerca a ella caminando con una sonrisa.
@@ -522,7 +522,7 @@ Alex: Tranquila, podemos comer algo al llegar al lugar, además… – le echa u
 Katie se siente un poco abrumada por la atención que está recibiendo, nunca nadie se había preocupado tanto por ella.
 Katie: e-está bien… gracias… - dice levantando la mirada a Alex
 Alex comienza a volar mientras le indica a Katie que la siga, ambos despegan y se dirigen al punto de encuentro con los demás para entrenar.
-Capítulo 36
+# Capítulo 36
 Ambos llegan al lugar, Alex y Katie descienden a terreno firme, ahí los esperan Basty, Robert Ronnal, Robert preparaba algo para que todos comieran juntos, Katie los mira un poco tímida y se acerca a ellos para saludarlos.
 Robert: Hijo, veo que lograste convencerla de venir. Que tal Katie, cuanto tiempo ¿no? – dice volteando a verla.
 Ronnal y Basty se acercaron a donde Alex y Katie para saludarle.
@@ -532,7 +532,7 @@ Katie: Hola… si… no quería incomodar con mi presencia así que busque un lu
 Robert llama a todos para comer, los demás se acercan y toman sus platos con un estofado para desayunar y prepararse para entrenar. Alex le ofrece uno a Katie y esta lo recibe con una sonrisa, se sienta junto a los demás algo tímida observando como todos comen tranquilos, mira a su plato mirando su reflejo en este, comienza a tener pensamientos "¿Esto es sentirse… feliz? Después de todo lo que he hecho… ¿por qué alguien como Alex... como ellos… siquiera me miran con buenos ojos? Sentada comiendo como si nunca hubiese hecho nada malo…". Finalmente sonríe y cierra sus ojos y comienza a comer de su plato, saborea el sabor en su boca y se sorprende de lo bueno que esta y comienza a comer con entusiasmo, los demás la miran con ternura y algo divertidos. Katie levanta la mirada cuando termina su plato mirando a los demás. 
 Ronnal le mira el rostro un poco manchado, le convida una servilleta con una sonrisa, Katie le mira unos segundos y la acepta con una sonrisa tímida, el sujeto que destrozo apenas llego ahora está comiendo junto a ella, irónico, ¿no? 
 Katie suspira y mira al cielo “¿Realmente estoy donde pertenezco...?”
-Capítulo 37
+# Capítulo 37
 Después de comer todos reposan un poco, charlando con Katie como se siente en la Tierra, ella comienza a contarles como que finalmente se siente libre y bien, está más tranquila y relajada sabiendo que están aceptándola en la Tierra, a pesar de que hace unos días fue una enemiga.
 Alex: Katie, ven tengo algo para ti. – dice levantándose y caminando su casa
 Katie le sigue y observa el lugar, una pequeña casa rustica de madera con decoraciones algo antiguas de la Tierra.
@@ -546,7 +546,7 @@ Después de un rato Katie sale de la casa con la ropa cambiada, se ajustaba las 
 Alex: Bien Katie, solo nos centraremos tu y yo mientras los demás hacen lo suyo, quiero ver realmente de lo que eres capaz si me lo permites. – dice sonriendo y tronando sus dedos mientras se estira.
 Katie: Bien… - suspira y se pone en posición de pelea frente a Alex.
 Alex y Katie se miran fijamente, Alex espera pacientemente de lo que es capaz Katie y verlo con sus propios ojos, una brisa recorre el lugar moviendo la hierva y las hojas de los árboles, los demás miran con atención desde lejos.
-Capítulo 38
+# Capítulo 38
 Katie se lanza contra Alex encestando un golpe directo dirigido a su rostro, pero este le detiene fácilmente sosteniendo su mano en un impacto que hizo mover la hierba de sus alrededores. Alex sonríe y suelta su mano esperando su próximo movimiento. Katie retrocede un poco y toma impulso para ahora dar una patada a sus piernas, pero Alex bloquea el ataque con el antebrazo, seguidamente Katie intenta dar otro golpe, pero también es bloqueado. Ambos comienzan a intercambiar ataques de forma seguida y rápida moviéndose por el lugar, Alex bloquea y esquiva todos sus intentos sin mucho esfuerzo hasta que ambos retroceden quedando a distancia. Katie jadea un poco algo cansada, Alex es muy rápido para ella.
 Alex: Nada mal, estas al nivel de mi padre mas o menos… eso es impresionante, tienes talento Katie.
 Katie se sonroja un poco al ser alagada por su poder, ella nunca había sido alagada por eso, solo traía caos a donde fuera, ¿cómo vería bueno eso…?
@@ -567,7 +567,7 @@ Katie agachó la mirada por un momento. Nunca había recibido un análisis tan d
 Alex: y, por último, tienes un gran potencial, seguro que entrenando conmigo llegaras muy lejos si entrenamos adecuadamente, incluso podrías dominar la fase 2 en poco tiempo.
 Katie: yo… quiero mejorar, quiero ser igual de fuerte que ustedes, nunca me habían entrenado antes… así que… daré lo mejor de mí.
 Alex: Bien, seré tu maestro y compañero. Quiero ver que tan fuerte serás. – dice sonriendo mientras la mira detenidamente. 
-Capítulo 39
+# Capítulo 39
 Los días transcurren normalmente. Alex le dio hogar a Katie en su casa ya que el lugar donde ella se refugiaba no era cómodo y estaba a la intemperie por las noches. 
 Alex la guía cada mañana en sus sesiones de control energético, donde pasa largas horas en su super forma para aprender a asimilarla como una extensión natural de su cuerpo. Sus músculos se tensan, su respiración se agita, pero su mirada es firme. No se rinde.
 Alex la observa con atención y orgullo.
@@ -586,7 +586,7 @@ Katie lo prueba.
 Katie: Lo odio.
 Ambos ríen mientras caminan entre luces de la calle.
 Katie se encuentra acostada en una habitación aparte en la casa de Alex, finalmente siente que puede dormir tranquila, sabiendo que al día siguiente vivirá en paz. Cierra los ojos y comienza a pensar "No sé en qué momento dejé de contar los días… y empecé a vivirlos."
-Capítulo 40
+# Capítulo 40
 Un día por la mañana Katie se encontraba en la casa de Alex como de costumbre, se encontraba aseándose y vistiéndose, con una ropa casual, ahora tenia su propia ropa de chica sin necesidad usar prestada la de Alex, lleva puesta una camisa negra y unos pantalones blancos, paseaba por la casa mirando los cuadros y decoraciones. Alex llega a la casa dándole una sonrisa a Katie.
 Alex: Hey, veo que estas despiertan. – se acerca a ella.
 Katie: Esta casa es de tu abuelo, ¿cierto?
